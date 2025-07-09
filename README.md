@@ -12,7 +12,7 @@
 
 ## About My Project
 
-This project is a Weather Prediction Model focused solely on building and evaluating a machine learning model for weather forecasting. The model analyzes historical weather data to predict variables such as temperature, humidity, precipitation, and wind speed. The goal is to provide accurate weather estimates for research and practical analysis purposes. Please note: This project does not include any front-end or back-end application components; it is strictly limited to model development and evaluation.
+This project is a Weather Prediction Model focused solely on building and evaluating a machine learning model for weather forecasting. The model analyzes historical weather data to predict variables such as temperature, humidity, precipitation, and wind speed. The goal is to provide accurate weather estimates for research and practical analysis purposes.
 
 ## Technologies Used
 
@@ -22,7 +22,7 @@ This project is a Weather Prediction Model focused solely on building and evalua
 - NumPy (for numerical computations)
 - Matplotlib / Seaborn (for data visualization)
 - Jupyter Notebook (for experimentation and documentation)
-- [Optional] TensorFlow or PyTorch (if using deep learning models)
+  
 
 ## Getting Started
 
